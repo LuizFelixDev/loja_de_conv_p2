@@ -11,7 +11,7 @@ SOURCES = main.c \
           modulos/vendas/vendas.c \
           modulos/entregas/entregas.c \
           modulos/validacoes/endereco/validaEndereco.c \
-          modulos/validacoes/clientes/validaClientes.c
+          modulos/validacoes/clientes/validaCliente.c
 
 OBJECTS = $(SOURCES:.c=.o)
 

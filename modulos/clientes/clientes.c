@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "modulos/validacoes/clientes/validaClientes.h"
-#include "modulos/validacoes/endereco/validaEndereco.h"
+#include "../validacoes/clientes/validaCliente.h"
+#include "../validacoes/endereco/validaEndereco.h"
 
 char tela_modulo_clientes(void){
     char op;

@@ -8,7 +8,7 @@
 #include "modulos/vendas/vendas.h"
 #include "modulos/entregas/entregas.h"
 #include "modulos/validacoes/endereco/validaEndereco.h"
-#include "modulos/validacoes/clientes/validaClientes.h"
+#include "modulos/validacoes/clientes/validaCliente.h"
 
 
 int main(void){
